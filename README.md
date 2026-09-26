@@ -25,3 +25,5 @@ Authors (if not a blinded submission):
 (If accepted/published:)
 
 Citation:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22967623.svg)](https://doi.org/10.5281/zenodo.22967623)
